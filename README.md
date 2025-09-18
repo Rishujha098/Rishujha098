@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react" />
   <img src="https://img.shields.io/badge/Node.js-runtime-68A063?logo=node.js" />
   <img src="https://img.shields.io/badge/TensorFlow-ML-FF6F00?logo=tensorflow" />
-  <img src="https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?logo=pytorch" />
+  <img src="https://img.shields.io/badge/Keras-DeepLearning-D00000?logo=keras" />
   <img src="https://img.shields.io/badge/OpenCV-ComputerVision-5C3EE8?logo=opencv" />
   <img src="https://img.shields.io/badge/LangChain-RAG-9B59B6?logo=chainlink" />
 </p>
