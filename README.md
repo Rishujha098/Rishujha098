@@ -8,52 +8,59 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
+---
 
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
-![C](https://img.shields.io/badge/C-Language-grey?logo=c)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" />
+  <img src="https://img.shields.io/badge/C-Language-grey?logo=c" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3" />
+</p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries  
-![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi)  
-![React](https://img.shields.io/badge/React-JS-blue?logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-runtime-green?logo=node.js)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch)  
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-blue?logo=opencv)  
-![LangChain](https://img.shields.io/badge/LangChain-RAG-purple?logo=chainlink)  
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-runtime-68A063?logo=node.js" />
+  <img src="https://img.shields.io/badge/TensorFlow-ML-FF6F00?logo=tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?logo=pytorch" />
+  <img src="https://img.shields.io/badge/OpenCV-ComputerVision-5C3EE8?logo=opencv" />
+  <img src="https://img.shields.io/badge/LangChain-RAG-9B59B6?logo=chainlink" />
+</p>
 
 ---
 
 ### 🧠 AI / ML & Generative AI  
-![LLMs](https://img.shields.io/badge/LLM-GenerativeAI-darkblue?logo=openai)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-NLP-yellow?logo=huggingface)  
-![Transformers](https://img.shields.io/badge/Transformers-NLP-red?logo=python)  
-![RAG](https://img.shields.io/badge/RAG-Search-green?logo=elastic)  
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-GenerativeAI-2C3E50?logo=openai" />
+  <img src="https://img.shields.io/badge/HuggingFace-NLP-FFD54F?logo=huggingface" />
+  <img src="https://img.shields.io/badge/Transformers-NLP-E74C3C?logo=python" />
+  <img src="https://img.shields.io/badge/RAG-Search-27AE60?logo=elastic" />
+</p>
 
 ---
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)  
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)  
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql" />
+</p>
 
 ---
 
 ### 🔧 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)  
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)  
-![VSCode](https://img.shields.io/badge/VSCode-IDE-blue?logo=visualstudiocode)  
-![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker" />
+  <img src="https://img.shields.io/badge/VSCode-IDE-007ACC?logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?logo=linux" />
 </p>
 
----
 
 ## 📌 Featured Projects  
 
@@ -65,11 +72,13 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishujha098&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishujha098&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-nine-tau-36.vercel.app/api?username=Rishujha098&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-nine-tau-36.vercel.app/api/top-langs/?username=Rishujha098&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
@@ -93,8 +102,4 @@
 
 ⭐ *If you like my work, don’t forget to star my repositories!* ⭐
 
----
 
-
-
-⭐ *If you like my work, don’t forget to star my repositories!* ⭐
