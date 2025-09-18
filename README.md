@@ -76,10 +76,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-nine-tau-36.vercel.app/api?username=Rishujha098&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats-nine-tau-36.vercel.app/api/top-langs/?username=Rishujha098&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishujha098&theme=react-dark" />
